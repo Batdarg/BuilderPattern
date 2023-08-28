@@ -1,0 +1,12 @@
+Z:\JavaProjects\BuilderPattern\src\main\java\builders\CarManualBuilder.java
+Z:\JavaProjects\BuilderPattern\src\main\java\builders\CarBuilder.java
+Z:\JavaProjects\BuilderPattern\src\main\java\components\Engine.java
+Z:\JavaProjects\BuilderPattern\src\main\java\cars\Car.java
+Z:\JavaProjects\BuilderPattern\src\main\java\components\Transmission.java
+Z:\JavaProjects\BuilderPattern\src\main\java\components\GPSNavigator.java
+Z:\JavaProjects\BuilderPattern\src\main\java\cars\Manual.java
+Z:\JavaProjects\BuilderPattern\src\main\java\cars\CarType.java
+Z:\JavaProjects\BuilderPattern\src\main\java\components\TripComputer.java
+Z:\JavaProjects\BuilderPattern\src\main\java\builders\Builder.java
+Z:\JavaProjects\BuilderPattern\src\main\java\test\Demo.java
+Z:\JavaProjects\BuilderPattern\src\main\java\director\Director.java
